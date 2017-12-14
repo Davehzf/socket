@@ -1,0 +1,1 @@
+arm-hisiv500-linux-gcc qiehuan.c  queue.c hi3519_gpio_utils.c fileutils.c -ldl  -o qiehuan   -lpthread -lm -D_FILE_OFFSET_BITS=64
